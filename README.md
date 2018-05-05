@@ -1,8 +1,7 @@
-# crypto_board
+# Crypto Board
 
-Flutter application
+Flutter client for [CoinMarketCap Public API](https://coinmarketcap.com/api/).
 
-## Getting Started
+## Thanks
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[cjdowner](https://github.com/cjdowner) for the [icons](https://github.com/cjdowner/cryptocurrency-icons)
